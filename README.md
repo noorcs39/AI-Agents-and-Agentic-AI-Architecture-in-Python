@@ -1,8 +1,11 @@
 # AI Agents and Agentic AI Architecture in Python
 
 **Offered by:** Vanderbilt University via Coursera
+
 **Instructor:** Dr. Jules White
+
 **Start Date:** May 3
+
 **License:** © Coursera & Vanderbilt University (educational purpose only)
 Personal learning notes and summaries compiled by Noor Uddin ([noor.cs2@yahoo.com](mailto:noor.cs2@yahoo.com)) for study and reference
 
